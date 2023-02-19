@@ -8,7 +8,7 @@
 .hero{
     height: 100vh;
     width: 100%;
-    background-image: url(../git_test1/bg2.jpg);
+    background-image: url(Portfolio/git_test1/bg2.jpg);
     background-size :cover;
     background-position : center;
 
@@ -121,7 +121,7 @@ h4{
 .about{
     width: 100%;
     padding: 100px 0px;
-    background-image: url(../git_test1/bg2.jpg);
+    background-image: url(Portfolio/git_test1/bg2.jpg);
     background-size :cover;
     background-position : center;
 }
@@ -193,7 +193,7 @@ button:hover{
 .project{
     width: 100%;
     padding: 100px 0px;
-    background-image: url(../git_test1/bg2.jpg);
+    background-image: url(Portfolio/git_test1/bg2.jpg);
     background-size :cover;
     background-position : center;
 }
@@ -269,7 +269,7 @@ h5{
     width: 100%;
     padding: 100px 0px;
     margin: 0;
-    background-image: url(../git_test1/bg2.jpg);
+    background-image: url(Portfolio/git_test1/bg2.jpg);
     background-size : cover;
     background-position : center;
 }
